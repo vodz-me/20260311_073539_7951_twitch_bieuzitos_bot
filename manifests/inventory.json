@@ -1,0 +1,894 @@
+{
+    "created_at": "2026-03-11T09:16:16.344786Z",
+    "source_root": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source",
+    "source_dir": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080",
+    "variant": "1080",
+    "playlist": {
+        "master": "source/master.m3u8",
+        "index": "source/1080/index.m3u8"
+    },
+    "chat_path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/chat.jsonl",
+    "segments": [
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00000.ts",
+            "file": "seg_00000.ts",
+            "size_bytes": 12805432,
+            "duration_seconds": 15.999667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00001.ts",
+            "file": "seg_00001.ts",
+            "size_bytes": 10781612,
+            "duration_seconds": 14.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00002.ts",
+            "file": "seg_00002.ts",
+            "size_bytes": 12567048,
+            "duration_seconds": 16.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00003.ts",
+            "file": "seg_00003.ts",
+            "size_bytes": 11004956,
+            "duration_seconds": 14.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00004.ts",
+            "file": "seg_00004.ts",
+            "size_bytes": 12702220,
+            "duration_seconds": 16.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00005.ts",
+            "file": "seg_00005.ts",
+            "size_bytes": 10875800,
+            "duration_seconds": 14.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00006.ts",
+            "file": "seg_00006.ts",
+            "size_bytes": 12578892,
+            "duration_seconds": 16.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00007.ts",
+            "file": "seg_00007.ts",
+            "size_bytes": 11095384,
+            "duration_seconds": 14.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00008.ts",
+            "file": "seg_00008.ts",
+            "size_bytes": 12487900,
+            "duration_seconds": 16.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00009.ts",
+            "file": "seg_00009.ts",
+            "size_bytes": 11099708,
+            "duration_seconds": 14.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00010.ts",
+            "file": "seg_00010.ts",
+            "size_bytes": 12504632,
+            "duration_seconds": 16.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00011.ts",
+            "file": "seg_00011.ts",
+            "size_bytes": 10974312,
+            "duration_seconds": 14.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00012.ts",
+            "file": "seg_00012.ts",
+            "size_bytes": 12684924,
+            "duration_seconds": 16.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00013.ts",
+            "file": "seg_00013.ts",
+            "size_bytes": 11081284,
+            "duration_seconds": 14.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00014.ts",
+            "file": "seg_00014.ts",
+            "size_bytes": 12503880,
+            "duration_seconds": 16.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00015.ts",
+            "file": "seg_00015.ts",
+            "size_bytes": 10986720,
+            "duration_seconds": 14.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00016.ts",
+            "file": "seg_00016.ts",
+            "size_bytes": 12595624,
+            "duration_seconds": 16.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00017.ts",
+            "file": "seg_00017.ts",
+            "size_bytes": 10974876,
+            "duration_seconds": 14.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00018.ts",
+            "file": "seg_00018.ts",
+            "size_bytes": 12489216,
+            "duration_seconds": 16.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00019.ts",
+            "file": "seg_00019.ts",
+            "size_bytes": 11183744,
+            "duration_seconds": 14.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00020.ts",
+            "file": "seg_00020.ts",
+            "size_bytes": 12395404,
+            "duration_seconds": 16.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00021.ts",
+            "file": "seg_00021.ts",
+            "size_bytes": 11391484,
+            "duration_seconds": 14.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00022.ts",
+            "file": "seg_00022.ts",
+            "size_bytes": 12323964,
+            "duration_seconds": 16.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00023.ts",
+            "file": "seg_00023.ts",
+            "size_bytes": 11105912,
+            "duration_seconds": 14.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00024.ts",
+            "file": "seg_00024.ts",
+            "size_bytes": 12340132,
+            "duration_seconds": 16.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00025.ts",
+            "file": "seg_00025.ts",
+            "size_bytes": 11006648,
+            "duration_seconds": 14.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00026.ts",
+            "file": "seg_00026.ts",
+            "size_bytes": 12585284,
+            "duration_seconds": 16.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00027.ts",
+            "file": "seg_00027.ts",
+            "size_bytes": 10993112,
+            "duration_seconds": 14.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00028.ts",
+            "file": "seg_00028.ts",
+            "size_bytes": 12652024,
+            "duration_seconds": 16.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00029.ts",
+            "file": "seg_00029.ts",
+            "size_bytes": 11054964,
+            "duration_seconds": 14.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00030.ts",
+            "file": "seg_00030.ts",
+            "size_bytes": 12614236,
+            "duration_seconds": 16.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00031.ts",
+            "file": "seg_00031.ts",
+            "size_bytes": 10840456,
+            "duration_seconds": 14.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00032.ts",
+            "file": "seg_00032.ts",
+            "size_bytes": 12965044,
+            "duration_seconds": 16.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00033.ts",
+            "file": "seg_00033.ts",
+            "size_bytes": 10617112,
+            "duration_seconds": 14.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00034.ts",
+            "file": "seg_00034.ts",
+            "size_bytes": 13054532,
+            "duration_seconds": 16.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00035.ts",
+            "file": "seg_00035.ts",
+            "size_bytes": 10522172,
+            "duration_seconds": 14.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00036.ts",
+            "file": "seg_00036.ts",
+            "size_bytes": 12759184,
+            "duration_seconds": 16.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00037.ts",
+            "file": "seg_00037.ts",
+            "size_bytes": 10824852,
+            "duration_seconds": 14.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00038.ts",
+            "file": "seg_00038.ts",
+            "size_bytes": 12673080,
+            "duration_seconds": 16.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00039.ts",
+            "file": "seg_00039.ts",
+            "size_bytes": 10910580,
+            "duration_seconds": 14.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00040.ts",
+            "file": "seg_00040.ts",
+            "size_bytes": 12660672,
+            "duration_seconds": 16.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00041.ts",
+            "file": "seg_00041.ts",
+            "size_bytes": 10929192,
+            "duration_seconds": 14.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00042.ts",
+            "file": "seg_00042.ts",
+            "size_bytes": 12566672,
+            "duration_seconds": 16.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00043.ts",
+            "file": "seg_00043.ts",
+            "size_bytes": 11004016,
+            "duration_seconds": 14.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00044.ts",
+            "file": "seg_00044.ts",
+            "size_bytes": 12701280,
+            "duration_seconds": 16.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00045.ts",
+            "file": "seg_00045.ts",
+            "size_bytes": 10892344,
+            "duration_seconds": 14.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00046.ts",
+            "file": "seg_00046.ts",
+            "size_bytes": 12562912,
+            "duration_seconds": 16.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00047.ts",
+            "file": "seg_00047.ts",
+            "size_bytes": 11088992,
+            "duration_seconds": 14.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00048.ts",
+            "file": "seg_00048.ts",
+            "size_bytes": 12493728,
+            "duration_seconds": 16.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00049.ts",
+            "file": "seg_00049.ts",
+            "size_bytes": 11098768,
+            "duration_seconds": 14.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00050.ts",
+            "file": "seg_00050.ts",
+            "size_bytes": 12509144,
+            "duration_seconds": 16.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00051.ts",
+            "file": "seg_00051.ts",
+            "size_bytes": 10977132,
+            "duration_seconds": 14.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00052.ts",
+            "file": "seg_00052.ts",
+            "size_bytes": 12683984,
+            "duration_seconds": 16.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00053.ts",
+            "file": "seg_00053.ts",
+            "size_bytes": 11071884,
+            "duration_seconds": 14.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00054.ts",
+            "file": "seg_00054.ts",
+            "size_bytes": 12511024,
+            "duration_seconds": 16.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00055.ts",
+            "file": "seg_00055.ts",
+            "size_bytes": 10967544,
+            "duration_seconds": 14.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00056.ts",
+            "file": "seg_00056.ts",
+            "size_bytes": 12523620,
+            "duration_seconds": 16.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00057.ts",
+            "file": "seg_00057.ts",
+            "size_bytes": 11071132,
+            "duration_seconds": 14.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00058.ts",
+            "file": "seg_00058.ts",
+            "size_bytes": 12588668,
+            "duration_seconds": 16.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00059.ts",
+            "file": "seg_00059.ts",
+            "size_bytes": 11087676,
+            "duration_seconds": 14.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00060.ts",
+            "file": "seg_00060.ts",
+            "size_bytes": 12394464,
+            "duration_seconds": 16.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00061.ts",
+            "file": "seg_00061.ts",
+            "size_bytes": 11389792,
+            "duration_seconds": 14.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00062.ts",
+            "file": "seg_00062.ts",
+            "size_bytes": 12198380,
+            "duration_seconds": 16.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00063.ts",
+            "file": "seg_00063.ts",
+            "size_bytes": 11228488,
+            "duration_seconds": 14.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00064.ts",
+            "file": "seg_00064.ts",
+            "size_bytes": 12341072,
+            "duration_seconds": 16.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00065.ts",
+            "file": "seg_00065.ts",
+            "size_bytes": 11007776,
+            "duration_seconds": 14.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00066.ts",
+            "file": "seg_00066.ts",
+            "size_bytes": 12700716,
+            "duration_seconds": 16.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00067.ts",
+            "file": "seg_00067.ts",
+            "size_bytes": 10879936,
+            "duration_seconds": 14.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00068.ts",
+            "file": "seg_00068.ts",
+            "size_bytes": 12651648,
+            "duration_seconds": 16.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00069.ts",
+            "file": "seg_00069.ts",
+            "size_bytes": 11053084,
+            "duration_seconds": 14.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00070.ts",
+            "file": "seg_00070.ts",
+            "size_bytes": 12544300,
+            "duration_seconds": 16.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00071.ts",
+            "file": "seg_00071.ts",
+            "size_bytes": 10906820,
+            "duration_seconds": 14.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00072.ts",
+            "file": "seg_00072.ts",
+            "size_bytes": 12579456,
+            "duration_seconds": 16.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00073.ts",
+            "file": "seg_00073.ts",
+            "size_bytes": 11004580,
+            "duration_seconds": 14.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00074.ts",
+            "file": "seg_00074.ts",
+            "size_bytes": 13055472,
+            "duration_seconds": 16.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00075.ts",
+            "file": "seg_00075.ts",
+            "size_bytes": 10524616,
+            "duration_seconds": 14.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00076.ts",
+            "file": "seg_00076.ts",
+            "size_bytes": 12763132,
+            "duration_seconds": 16.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00077.ts",
+            "file": "seg_00077.ts",
+            "size_bytes": 10820904,
+            "duration_seconds": 14.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00078.ts",
+            "file": "seg_00078.ts",
+            "size_bytes": 12670260,
+            "duration_seconds": 16.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00079.ts",
+            "file": "seg_00079.ts",
+            "size_bytes": 10961152,
+            "duration_seconds": 14.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00080.ts",
+            "file": "seg_00080.ts",
+            "size_bytes": 12973504,
+            "duration_seconds": 16.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00081.ts",
+            "file": "seg_00081.ts",
+            "size_bytes": 10686484,
+            "duration_seconds": 14.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00082.ts",
+            "file": "seg_00082.ts",
+            "size_bytes": 12520048,
+            "duration_seconds": 16.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00083.ts",
+            "file": "seg_00083.ts",
+            "size_bytes": 10945360,
+            "duration_seconds": 14.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00084.ts",
+            "file": "seg_00084.ts",
+            "size_bytes": 12737188,
+            "duration_seconds": 16.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00085.ts",
+            "file": "seg_00085.ts",
+            "size_bytes": 10976004,
+            "duration_seconds": 14.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00086.ts",
+            "file": "seg_00086.ts",
+            "size_bytes": 12588480,
+            "duration_seconds": 16.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00087.ts",
+            "file": "seg_00087.ts",
+            "size_bytes": 10959648,
+            "duration_seconds": 14.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00088.ts",
+            "file": "seg_00088.ts",
+            "size_bytes": 12544676,
+            "duration_seconds": 16.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00089.ts",
+            "file": "seg_00089.ts",
+            "size_bytes": 11022628,
+            "duration_seconds": 14.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00090.ts",
+            "file": "seg_00090.ts",
+            "size_bytes": 12804116,
+            "duration_seconds": 16.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00091.ts",
+            "file": "seg_00091.ts",
+            "size_bytes": 10700020,
+            "duration_seconds": 14.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00092.ts",
+            "file": "seg_00092.ts",
+            "size_bytes": 12683232,
+            "duration_seconds": 16.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00093.ts",
+            "file": "seg_00093.ts",
+            "size_bytes": 11162876,
+            "duration_seconds": 14.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00094.ts",
+            "file": "seg_00094.ts",
+            "size_bytes": 12520048,
+            "duration_seconds": 16.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00095.ts",
+            "file": "seg_00095.ts",
+            "size_bytes": 10909076,
+            "duration_seconds": 14.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00096.ts",
+            "file": "seg_00096.ts",
+            "size_bytes": 12656912,
+            "duration_seconds": 16.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00097.ts",
+            "file": "seg_00097.ts",
+            "size_bytes": 11083728,
+            "duration_seconds": 14.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00098.ts",
+            "file": "seg_00098.ts",
+            "size_bytes": 12510648,
+            "duration_seconds": 16.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00099.ts",
+            "file": "seg_00099.ts",
+            "size_bytes": 10995180,
+            "duration_seconds": 14.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00100.ts",
+            "file": "seg_00100.ts",
+            "size_bytes": 12597504,
+            "duration_seconds": 16.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00101.ts",
+            "file": "seg_00101.ts",
+            "size_bytes": 11169268,
+            "duration_seconds": 14.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00102.ts",
+            "file": "seg_00102.ts",
+            "size_bytes": 12417212,
+            "duration_seconds": 16.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00103.ts",
+            "file": "seg_00103.ts",
+            "size_bytes": 11185248,
+            "duration_seconds": 14.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00104.ts",
+            "file": "seg_00104.ts",
+            "size_bytes": 12233724,
+            "duration_seconds": 16.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00105.ts",
+            "file": "seg_00105.ts",
+            "size_bytes": 10998752,
+            "duration_seconds": 14.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00106.ts",
+            "file": "seg_00106.ts",
+            "size_bytes": 12688496,
+            "duration_seconds": 16.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00107.ts",
+            "file": "seg_00107.ts",
+            "size_bytes": 11042180,
+            "duration_seconds": 14.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00108.ts",
+            "file": "seg_00108.ts",
+            "size_bytes": 12457068,
+            "duration_seconds": 16.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00109.ts",
+            "file": "seg_00109.ts",
+            "size_bytes": 11039548,
+            "duration_seconds": 14.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00110.ts",
+            "file": "seg_00110.ts",
+            "size_bytes": 12597316,
+            "duration_seconds": 16.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00111.ts",
+            "file": "seg_00111.ts",
+            "size_bytes": 11088804,
+            "duration_seconds": 14.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00112.ts",
+            "file": "seg_00112.ts",
+            "size_bytes": 12415332,
+            "duration_seconds": 16.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00113.ts",
+            "file": "seg_00113.ts",
+            "size_bytes": 11076396,
+            "duration_seconds": 14.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00114.ts",
+            "file": "seg_00114.ts",
+            "size_bytes": 12916916,
+            "duration_seconds": 16.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00115.ts",
+            "file": "seg_00115.ts",
+            "size_bytes": 10676520,
+            "duration_seconds": 14.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00116.ts",
+            "file": "seg_00116.ts",
+            "size_bytes": 12941732,
+            "duration_seconds": 16.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00117.ts",
+            "file": "seg_00117.ts",
+            "size_bytes": 10529504,
+            "duration_seconds": 14.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00118.ts",
+            "file": "seg_00118.ts",
+            "size_bytes": 12757492,
+            "duration_seconds": 16.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00119.ts",
+            "file": "seg_00119.ts",
+            "size_bytes": 10831620,
+            "duration_seconds": 14.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00120.ts",
+            "file": "seg_00120.ts",
+            "size_bytes": 12670072,
+            "duration_seconds": 16.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00121.ts",
+            "file": "seg_00121.ts",
+            "size_bytes": 10912272,
+            "duration_seconds": 14.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00122.ts",
+            "file": "seg_00122.ts",
+            "size_bytes": 12581148,
+            "duration_seconds": 16.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00123.ts",
+            "file": "seg_00123.ts",
+            "size_bytes": 11116252,
+            "duration_seconds": 14.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00124.ts",
+            "file": "seg_00124.ts",
+            "size_bytes": 12567612,
+            "duration_seconds": 16.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00125.ts",
+            "file": "seg_00125.ts",
+            "size_bytes": 10916972,
+            "duration_seconds": 14.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00126.ts",
+            "file": "seg_00126.ts",
+            "size_bytes": 12561596,
+            "duration_seconds": 16.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00127.ts",
+            "file": "seg_00127.ts",
+            "size_bytes": 11080156,
+            "duration_seconds": 14.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00128.ts",
+            "file": "seg_00128.ts",
+            "size_bytes": 12502000,
+            "duration_seconds": 16.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00129.ts",
+            "file": "seg_00129.ts",
+            "size_bytes": 11079404,
+            "duration_seconds": 14.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00130.ts",
+            "file": "seg_00130.ts",
+            "size_bytes": 12508580,
+            "duration_seconds": 16.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00131.ts",
+            "file": "seg_00131.ts",
+            "size_bytes": 11217020,
+            "duration_seconds": 14.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00132.ts",
+            "file": "seg_00132.ts",
+            "size_bytes": 12459888,
+            "duration_seconds": 16.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00133.ts",
+            "file": "seg_00133.ts",
+            "size_bytes": 11054588,
+            "duration_seconds": 14.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00134.ts",
+            "file": "seg_00134.ts",
+            "size_bytes": 12530952,
+            "duration_seconds": 16.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00135.ts",
+            "file": "seg_00135.ts",
+            "size_bytes": 10965100,
+            "duration_seconds": 14.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00136.ts",
+            "file": "seg_00136.ts",
+            "size_bytes": 12612544,
+            "duration_seconds": 16.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00137.ts",
+            "file": "seg_00137.ts",
+            "size_bytes": 10967920,
+            "duration_seconds": 14.026334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00138.ts",
+            "file": "seg_00138.ts",
+            "size_bytes": 12601828,
+            "duration_seconds": 16.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00139.ts",
+            "file": "seg_00139.ts",
+            "size_bytes": 11071884,
+            "duration_seconds": 14.031667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00140.ts",
+            "file": "seg_00140.ts",
+            "size_bytes": 12413076,
+            "duration_seconds": 16.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00141.ts",
+            "file": "seg_00141.ts",
+            "size_bytes": 11367984,
+            "duration_seconds": 14.015667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00142.ts",
+            "file": "seg_00142.ts",
+            "size_bytes": 12207968,
+            "duration_seconds": 16.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00143.ts",
+            "file": "seg_00143.ts",
+            "size_bytes": 11214952,
+            "duration_seconds": 14.021
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/source/1080/seg_00144.ts",
+            "file": "seg_00144.ts",
+            "size_bytes": 11972968,
+            "duration_seconds": 16.314333
+        }
+    ],
+    "chat": {
+        "path": "/var/www/html/storage/app/private/processing/20260311_073539_7951_twitch_bieuzitos_bot/chat.jsonl",
+        "file": "chat.jsonl",
+        "size_bytes": 198
+    },
+    "totals": {
+        "segments": 145,
+        "chat_files": 1,
+        "total_bytes": 1710070194,
+        "total_duration_seconds": 2179.6957139999963
+    }
+}
